@@ -121,10 +121,10 @@ public class A1113364_0331{
     
     if(y1==0){
        System.out.println("雪寶奔跑的距離為"+a1.distance(x1)+"m");               
-    }  else {
+    }  
+    else {
             System.out.println("雪寶奔跑的距離為"+a1.distance(x1,y1)+"m");       
-            }
-    
+    }
     if(y2==0){
         System.out.println("驢子奔跑的距離為"+a2.distance(x2)+"m");
     }
